@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang"pt-br">
+<head>
+<metacharset="UTF-8"/>
+<h2>missão e valores</h2>
+
+<p><em>Somos uma empresa inovadora, divertida e, acima de tudo, apaixonada pelas pessoas.
+Ao logo atuamos com ética e foco para que você e todos os nossos clientes estejam sempre satisfeitos.
+
+A responsabilidade social e a transparência fazem parte do DNA da marca e são compartilhadas com quem nos relacionamos - funcionários, fornecedores, clientes e a comunidade. Além de realizarmos pesquisas de satisfação constantes com estes públicos, também lançamos anualmente o Relatório Global de Sustentabilidade, reforçando o compromisso com a transparência em todas as áreas de atuação da empresa e construindo uma moda com impacto positivo.
+</p></em>
+
+<h2>nossas especialidades</h2>
+
+A revolução é Moda Predadores BR é especialista em produtos do varejo é atacado de modas masculinas e femininas e infantil . O nosso destaque é na venda de roupas,serviços de costuras. Nossa estratégia de marca é traduzir as principais tendências de moda que pesquisamos no mundo todo para os gostos e preferências das brasileiras a um preço acessível.

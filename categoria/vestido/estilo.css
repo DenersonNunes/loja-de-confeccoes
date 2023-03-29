@@ -1,0 +1,17 @@
+.btn {
+    padding: 20px 18px;
+    width: 50px;
+    color: white;
+    background: #209;
+    border: 1px solid #555;
+    border-radius: 5px;
+    text-align: center;
+    user-select: none;
+    cursor: pointer;
+    
+}
+
+.btn:houver{
+    background: #19ee05;
+    transition: background 1s;
+}
